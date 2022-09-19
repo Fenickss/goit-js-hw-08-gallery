@@ -1,7 +1,6 @@
 {
   "dependencies": {
-    "@babel/preset-env": "^7.19.1",
-    "parcel": "^2.7.0"
+    "@babel/preset-env": "^7.19.1"
   },
   "name": "goit-js-hw-08-gallery",
   "description": "",
@@ -9,7 +8,8 @@
   "main": "index.js",
   "devDependencies": {
     "@babel/cli": "^7.18.10",
-    "@babel/core": "^7.19.1"
+    "@babel/core": "^7.19.1",
+    "parcel": "^2.7.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
